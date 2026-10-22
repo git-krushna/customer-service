@@ -13,6 +13,13 @@ A robust Spring Boot application demonstrating a full-stack REST API with robust
 - **Docker & Docker Compose**
 - **Jenkins** (CI/CD Pipeline)
 
+## GitHub Webhook Test
+
+- Project: Customer Service Application
+- CI/CD: Jenkins
+- Webhook test: October 22, 2026
+- Status: Testing automatic builds
+
 ---
 
 ## 🏗️ Architecture 
